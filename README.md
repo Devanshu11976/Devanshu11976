@@ -10,21 +10,23 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 CSE (AI & ML) Student
+* 🎓 CSE (AI & ML) Student at Chandigarh University
 * 💡 Interested in Backend + AI Systems
-* 🚀 Building real-world projects
-* 📈 Goal: Crack top MNC
+* 🚀 Building real-world scalable projects
+* 📈 Goal: Crack top MNC with strong backend skills
 
 ---
 
 ## 🚦 Featured Project
 
-### AI Traffic Management System
+### 🔥 AI Traffic Management System
 
 * 🚗 YOLOv8 for real-time vehicle detection
-* ⚡ FastAPI + Node.js backend
-* 🧠 LLM-based violation reports
-* 📊 Dashboard for monitoring
+* ⚡ FastAPI + Node.js backend integration
+* 🧠 LLM-based violation detection & legal report generation
+* 📊 Dashboard for monitoring traffic violations
+
+👉 https://github.com/Devanshu11976/traffic_management
 
 ---
 
@@ -39,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Devanshu11976&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu11976&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshu11976&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu11976&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -53,12 +55,19 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Devanshu11976/Devanshu11976/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 * 📧 Email: [devanshusharmagsp@gmail.com](mailto:devanshusharmagsp@gmail.com)
-* 💼 LinkedIn: (Add your link here)
+* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
 
 ---
 
 ⭐ *“Experience teaches best, and sharing challenges enriches the journey.”*
-![snake gif](https://github.com/Devanshu11976/Devanshu11976/blob/output/github-contribution-grid-snake.svg)
