@@ -25,9 +25,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devanshu11976&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Devanshu11976&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu11976&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu11976&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Devanshu11976&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Devanshu11976?style=for-the-badge&color=blueviolet&label=FOLLOWERS)
 
 </div>
 
