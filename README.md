@@ -25,9 +25,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devanshu11976&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+<a href="https://github.com/Devanshu11976">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshu11976&theme=radical" width="100%" alt="Profile Summary" />
+</a>
+
+<a href="https://github.com/Devanshu11976">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devanshu11976&theme=radical" height="180" alt="Repos per Language" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu11976&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages" />
+<a href="https://github.com/Devanshu11976">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu11976&theme=radical" height="180" alt="Stats" />
+</a>
 
 </div>
 
