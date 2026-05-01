@@ -61,3 +61,4 @@
 ---
 
 ⭐ *“Experience teaches best, and sharing challenges enriches the journey.”*
+![snake gif](https://github.com/Devanshu11976/Devanshu11976/blob/output/github-contribution-grid-snake.svg)
